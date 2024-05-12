@@ -1,0 +1,8 @@
+//In jsx while returning multiple components,they must be wrapped under single parent element
+//Use first letter as Capital
+
+//For use of variable use {username} ex.<h1>chai and react {username}</h1>
+
+//useState(15) is a hook which we can use by const [counter,setCounter]=useState in which counter is a variable and setCounter is a fucntion(First part variable,second function)
+
+//Read about react fibre from github article
